@@ -3,3 +3,4 @@ description: This is the description of the microservice
 system: retail
 team: logistics
 visibility: public
+tier: production
